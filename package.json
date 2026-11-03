@@ -1,0 +1,23 @@
+{
+  "name": "college-job-tracker",
+  "version": "1.0.0",
+  "description": "Full-stack College Job Tracker System using MERN Stack",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed",
+    "start": "npm --prefix server start",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": [
+    "mern",
+    "job-tracker",
+    "placement-cell",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
